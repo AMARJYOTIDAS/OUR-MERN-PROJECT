@@ -1,9 +1,11 @@
-function App() {
+import React from "react";
+import Dashboard from "./Dashboard/Dashboard";
+const App = () => {
   return (
-    <>
-      <h1>hello world</h1>
-    </>
+    <div>
+      <Dashboard />
+    </div>
   );
-}
+};
 
 export default App;
