@@ -1,10 +1,10 @@
 import React from "react";
-import CollageHero from "./CollegeHero/CollegeHero";
+import CollegeHero from "./CollegeHero/CollegeHero";
 
 const App = () => {
   return (
     <div>
-      <CollageHero />
+      <CollegeHero />
     </div>
   );
 };
