@@ -1,9 +1,11 @@
 import React from "react";
 import Dashboard from "./Dashboard/Dashboard";
+import CollegiaHero from "./CollegiaHero/CollegiaHero";
 const App = () => {
   return (
     <div>
-      <Dashboard />
+      <CollegiaHero />
+      {/* <Dashboard /> */}
     </div>
   );
 };
