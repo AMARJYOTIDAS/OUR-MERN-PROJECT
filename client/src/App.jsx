@@ -1,9 +1,10 @@
 import React from "react";
-import Dashboard from "./Dashboard/Dashboard";
+import CollageHero from "./CollegeHero/CollegeHero";
+
 const App = () => {
   return (
     <div>
-      <Dashboard />
+      <CollageHero />
     </div>
   );
 };
